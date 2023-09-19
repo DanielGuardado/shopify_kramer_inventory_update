@@ -1,0 +1,4 @@
+old
+env/
+__pycache__/
+config.py
